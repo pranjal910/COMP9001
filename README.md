@@ -6,15 +6,7 @@
 
 ## 🚀 How to Run the Game
 
-### 1. Requirements
-
-Ensure you have **Python 3** installed on your system. You also need to install the `pyfiglet` package for the ASCII art banner:
-
-```bash
-pip install pyfiglet
-```
-
-### 2. Clone or Download the Repository
+### 1. Clone or Download the Repository
 
 If using Git:
 
